@@ -1,4 +1,7 @@
-# gym-website
+# demo-website
+
+https://buefy.org/documentation/layout/
+
 
 ## Project setup
 ```

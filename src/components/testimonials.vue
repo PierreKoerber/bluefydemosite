@@ -7,7 +7,7 @@
                         <article class="media">
                             <div class="media-left">
                                 <figure class="image is-64x64 ">
-                                    <img src="../assets/img/007.svg" alt="Image">
+                                    <img src="../assets/img/Mobile Marketing-bro.svg" alt="Image">
                                 </figure>
                             </div>
                             <div class="media-content">

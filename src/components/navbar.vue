@@ -42,7 +42,7 @@
         <div class="hero-body">
             <div class="container">
                 <h1 class="has-text-green is-size-1 is-size-3-mobile">
-                    Gym Service
+                    Developper service
                 </h1>
                 <p class="has-text-green">
                     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
@@ -51,6 +51,7 @@
                 <button class="btn has-text-white has-company-bg is-size-7 a-menu">
                     Get started
                 </button>
+               
             </div>
         </div> 
     </section>
@@ -59,7 +60,7 @@
 <style>
 @media(min-width: 1024px) {
     .hero-body {
-        background-image: url('../assets/img/Programming-bro.svg');
+        background-image: url('../assets/img/logo.png');
         background-size: 30%;
         background-position: 80% 50%;
         background-repeat: no-repeat;
