@@ -1,28 +1,32 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Navbar/>
+    <Testimonials/>
+    <Features/>
+    <Newsletter/>
+    <Footer year="2020"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from './components/navbar.vue'
+import Testimonials from './components/testimonials.vue'
+import Features from './components/features.vue'
+import Newsletter from './components/newsletter.vue'
+import Footer from './components/footer.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+     Navbar,
+    Testimonials,
+    Features,
+    Newsletter,
+    Footer,
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
